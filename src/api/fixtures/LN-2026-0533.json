@@ -1,0 +1,254 @@
+{
+  "id": "LN-2026-0533",
+  "customer": {
+    "name": "Ngozi Eze"
+  },
+  "product": "SME Working Capital",
+  "currency": "NGN",
+  "principal": "200000000",
+  "interestRate": "2% per month",
+  "disbursedOn": "2026-11-01",
+  "unappliedCredit": "0",
+  "instalments": [
+    {
+      "number": 1,
+      "dueDate": "2026-12-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "4000000",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "14911919",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 2,
+      "dueDate": "2027-01-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "3701762",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "15210157",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 3,
+      "dueDate": "2027-02-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "3397558",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "15514361",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 4,
+      "dueDate": "2027-03-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "3087271",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "15824648",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 5,
+      "dueDate": "2027-04-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "2770778",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "16141141",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 6,
+      "dueDate": "2027-05-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "2447955",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "16463964",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 7,
+      "dueDate": "2027-06-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "2118676",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "16793243",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 8,
+      "dueDate": "2027-07-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "1782811",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "17129108",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 9,
+      "dueDate": "2027-08-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "1440229",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "17471690",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 10,
+      "dueDate": "2027-09-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "1090795",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "17821124",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 11,
+      "dueDate": "2027-10-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "734373",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "18177546",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 12,
+      "dueDate": "2027-11-01",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "370822",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "18541099",
+        "paid": "0"
+      }
+    }
+  ]
+}

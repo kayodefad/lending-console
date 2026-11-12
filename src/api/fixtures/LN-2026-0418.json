@@ -1,0 +1,134 @@
+{
+  "id": "LN-2026-0418",
+  "customer": {
+    "name": "Adaeze Okafor"
+  },
+  "product": "SME Working Capital",
+  "currency": "NGN",
+  "principal": "120000000",
+  "interestRate": "1.5% per month",
+  "disbursedOn": "2026-08-31",
+  "unappliedCredit": "0",
+  "instalments": [
+    {
+      "number": 1,
+      "dueDate": "2026-09-30",
+      "penalty": {
+        "due": "50000",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "1800000",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "19263026",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 2,
+      "dueDate": "2026-10-31",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "1511055",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "19551971",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 3,
+      "dueDate": "2026-11-30",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "1217775",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "19845251",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 4,
+      "dueDate": "2026-12-31",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "920096",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "20142930",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 5,
+      "dueDate": "2027-01-31",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "617952",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "20445074",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 6,
+      "dueDate": "2027-02-28",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "311276",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "20751748",
+        "paid": "0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "LN-2026-0377",
+  "customer": {
+    "name": "Emeka Nwosu"
+  },
+  "product": "Personal Loan",
+  "currency": "NGN",
+  "principal": "50000000",
+  "interestRate": "2.5% per month",
+  "disbursedOn": "2026-07-15",
+  "unappliedCredit": "0",
+  "instalments": [
+    {
+      "number": 1,
+      "dueDate": "2026-08-15",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "500000",
+        "paid": "500000"
+      },
+      "interest": {
+        "due": "1250000",
+        "paid": "1250000"
+      },
+      "principal": {
+        "due": "7827499",
+        "paid": "7827499"
+      }
+    },
+    {
+      "number": 2,
+      "dueDate": "2026-09-15",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "1054313",
+        "paid": "1054313"
+      },
+      "principal": {
+        "due": "8023186",
+        "paid": "8023186"
+      }
+    },
+    {
+      "number": 3,
+      "dueDate": "2026-10-15",
+      "penalty": {
+        "due": "75000",
+        "paid": "75000"
+      },
+      "fee": {
+        "due": "25000",
+        "paid": "25000"
+      },
+      "interest": {
+        "due": "853733",
+        "paid": "853733"
+      },
+      "principal": {
+        "due": "8223766",
+        "paid": "3000000"
+      }
+    },
+    {
+      "number": 4,
+      "dueDate": "2026-11-15",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "648139",
+        "paid": "400000"
+      },
+      "principal": {
+        "due": "8429360",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 5,
+      "dueDate": "2026-12-15",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "437405",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "8640094",
+        "paid": "0"
+      }
+    },
+    {
+      "number": 6,
+      "dueDate": "2027-01-15",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "221402",
+        "paid": "0"
+      },
+      "principal": {
+        "due": "8856095",
+        "paid": "0"
+      }
+    }
+  ]
+}

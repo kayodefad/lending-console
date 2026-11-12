@@ -1,0 +1,74 @@
+{
+  "id": "LN-2026-0129",
+  "customer": {
+    "name": "Bisi Adeyemi"
+  },
+  "product": "Salary Advance",
+  "currency": "NGN",
+  "principal": "9000000",
+  "interestRate": "3% per month",
+  "disbursedOn": "2026-05-20",
+  "unappliedCredit": "150000",
+  "instalments": [
+    {
+      "number": 1,
+      "dueDate": "2026-06-20",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "270000",
+        "paid": "270000"
+      },
+      "principal": {
+        "due": "2911773",
+        "paid": "2911773"
+      }
+    },
+    {
+      "number": 2,
+      "dueDate": "2026-07-20",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "182647",
+        "paid": "182647"
+      },
+      "principal": {
+        "due": "2999126",
+        "paid": "2999126"
+      }
+    },
+    {
+      "number": 3,
+      "dueDate": "2026-08-20",
+      "penalty": {
+        "due": "0",
+        "paid": "0"
+      },
+      "fee": {
+        "due": "0",
+        "paid": "0"
+      },
+      "interest": {
+        "due": "92673",
+        "paid": "92673"
+      },
+      "principal": {
+        "due": "3089101",
+        "paid": "3089101"
+      }
+    }
+  ]
+}

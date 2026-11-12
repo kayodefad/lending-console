@@ -1,0 +1,13 @@
+{
+  "id": "LN-2026-0561",
+  "customer": {
+    "name": "Tunde Alabi"
+  },
+  "product": "Asset Finance",
+  "currency": "NGN",
+  "principal": "350000000",
+  "interestRate": "2% per month",
+  "disbursedOn": "2026-11-09",
+  "unappliedCredit": "0",
+  "instalments": []
+}
